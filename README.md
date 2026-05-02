@@ -8,9 +8,13 @@ This is also what my server runs on, so the goal is to let you switch between co
 
 # Installation
 Install XMCL (or whatever launcher you want): https://xmcl.app/en/guide/install
+
 Download the latest version of the modpack from the **Releases** section.
+
 Click the **Create Game** button to add a new profile.
+
 Click the import from modpack button and select the downloaded mrpack file.
+
 Click Create.
 
 
