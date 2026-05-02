@@ -6,5 +6,12 @@ The reason this runs on a modern version instead of 1.8 is simple: there’s bas
 
 This is also what my server runs on, so the goal is to let you switch between competitive 1.8-style gameplay and newer versions without friction. You get the classic feel when you want it, but you’re not locked out of all the newer content and improvements.
 
+# Installation
+Install XMCL (or whatever launcher you want): https://xmcl.app/en/guide/install
+Download the latest version of the modpack from the **Releases** section.
+Click the **Create Game** button to add a new profile.
+Click the import from modpack button and select the downloaded mrpack file.
+Click Create.
+
 
 Discord: https://discord.gg/wn6ynCyPaF
